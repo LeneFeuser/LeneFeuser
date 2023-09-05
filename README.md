@@ -8,8 +8,9 @@
 <div flex>
   <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=LeneFeuser&show_icons=true&theme=holi"/>
   <img height= "160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LeneFeuser&layout=compact&theme=holi"/>
-  <img align="right" alt="Gojo" height="130" width="130" src="https://ih0.redbubble.net/image.2492428876.9616/raf,360x360,075,t,fafafa:ca443f4786.jpg"/> 
 </div>
+
+<img align="right" alt="Gojo" height="130" width="130" src="https://ih0.redbubble.net/image.2492428876.9616/raf,360x360,075,t,fafafa:ca443f4786.jpg"/>
 
 ## Technologies I use
   
